@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lLjbHaQxfzb9MW81RXDlw/XRIV2JI3/fh6XbiuCV6Mzic62SJQbQSKLF2sMKinHmuc0T3dcCdy9NxjChIs/bnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Files\\PROJECT\\Micht’s Team\\Create Backend Web API Project Using .NET 8\\ClickUp Using Visual Studio\\Engineering\\Projects\\Code-Mate\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
